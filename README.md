@@ -3,7 +3,7 @@
 #### Main Script
 Script
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/G0it2no/Script/main/Op%20bg"))()
+loadstring(game:httpget("https://raw.githubusercontent.com/SumitScripts/OP-BATTLEGROUNDS/main/Opbattlegrounds%20/Source%25100"))()
 ```
 # Executor
 
