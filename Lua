@@ -5,6 +5,10 @@ Script
 ```lua
 loadstring(game:httpget("https://raw.githubusercontent.com/SumitScripts/OP-BATTLEGROUNDS/main/Opbattlegrounds%20/Source%25100"))()
 ```
+#### Game
+```lua
+https://www.roblox.com/games/15467245730/OP-Battlegrounds
+```
 # Executor
 
 #### Codex
